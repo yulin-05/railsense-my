@@ -1,0 +1,891 @@
+{
+  "routes": [
+    {
+      "origin": "AG01",
+      "destination": "AG02",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG02",
+      "destination": "AG03",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG03",
+      "destination": "AG04",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG04",
+      "destination": "AG05",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG05",
+      "destination": "AG06",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG06",
+      "destination": "AG07",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG07",
+      "destination": "AG08",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG08",
+      "destination": "AG09",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG09",
+      "destination": "AG10",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG10",
+      "destination": "AG11",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG11",
+      "destination": "AG12",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG12",
+      "destination": "AG13",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG13",
+      "destination": "AG14",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG14",
+      "destination": "AG15",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG15",
+      "destination": "AG16",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG16",
+      "destination": "AG17",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "AG17",
+      "destination": "AG18",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+
+    {
+      "origin": "KG04",
+      "destination": "KG06",
+      "stops": 2,
+      "expectedDuration": 4,
+      "fee": 0.90
+    },
+    {
+      "origin": "KG06",
+      "destination": "KG07",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG07",
+      "destination": "KG08",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG08",
+      "destination": "KG09",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG09",
+      "destination": "KG10",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG10",
+      "destination": "KG12",
+      "stops": 2,
+      "expectedDuration": 4,
+      "fee": 0.90
+    },
+    {
+      "origin": "KG12",
+      "destination": "KG13",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG13",
+      "destination": "KG14",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG14",
+      "destination": "KG15",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG15",
+      "destination": "KG16",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG16",
+      "destination": "KG17",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG17",
+      "destination": "KG18",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG18",
+      "destination": "KG20",
+      "stops": 2,
+      "expectedDuration": 4,
+      "fee": 0.90
+    },
+    {
+      "origin": "KG20",
+      "destination": "KG21",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG21",
+      "destination": "KG22",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG22",
+      "destination": "KG23",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG23",
+      "destination": "KG24",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG24",
+      "destination": "KG26",
+      "stops": 2,
+      "expectedDuration": 4,
+      "fee": 0.90
+    },
+    {
+      "origin": "KG26",
+      "destination": "KG27",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG27",
+      "destination": "KG28",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG28",
+      "destination": "KG29",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG29",
+      "destination": "KG30",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG30",
+      "destination": "KG31",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG31",
+      "destination": "KG33",
+      "stops": 2,
+      "expectedDuration": 4,
+      "fee": 0.90
+    },
+    {
+      "origin": "KG33",
+      "destination": "KG34",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KG34",
+      "destination": "KG35",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+
+    {
+      "origin": "KJ01",
+      "destination": "KJ02",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ02",
+      "destination": "KJ03",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ03",
+      "destination": "KJ04",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ04",
+      "destination": "KJ05",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ05",
+      "destination": "KJ06",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ06",
+      "destination": "KJ07",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ07",
+      "destination": "KJ08",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ08",
+      "destination": "KJ09",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ09",
+      "destination": "KJ10",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ10",
+      "destination": "KJ11",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ11",
+      "destination": "KJ12",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ12",
+      "destination": "KJ13",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ13",
+      "destination": "KJ14",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ14",
+      "destination": "KJ15",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ15",
+      "destination": "KJ16",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ16",
+      "destination": "KJ17",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ17",
+      "destination": "KJ18",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ18",
+      "destination": "KJ19",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ19",
+      "destination": "KJ20",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ20",
+      "destination": "KJ21",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ21",
+      "destination": "KJ22",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ22",
+      "destination": "KJ23",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ23",
+      "destination": "KJ24",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ24",
+      "destination": "KJ25",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ25",
+      "destination": "KJ26",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ26",
+      "destination": "KJ27",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ27",
+      "destination": "KJ28",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ28",
+      "destination": "KJ29",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ29",
+      "destination": "KJ30",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ30",
+      "destination": "KJ31",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ31",
+      "destination": "KJ32",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ32",
+      "destination": "KJ33",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ33",
+      "destination": "KJ34",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ34",
+      "destination": "KJ35",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "KJ35",
+      "destination": "KJ36",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+
+    {
+      "origin": "MR01",
+      "destination": "MR02",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "MR02",
+      "destination": "MR03",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "MR03",
+      "destination": "MR04",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "MR04",
+      "destination": "MR05",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "MR05",
+      "destination": "MR06",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "MR06",
+      "destination": "MR07",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "MR07",
+      "destination": "MR08",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "MR08",
+      "destination": "MR09",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "MR09",
+      "destination": "MR10",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "MR10",
+      "destination": "MR11",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+
+    {
+      "origin": "PYL03",
+      "destination": "PYL04",
+      "stops": 1,
+      "expectedDuration": 3,
+      "fee": 0.90
+    },
+    {
+      "origin": "PYL04",
+      "destination": "PYL06",
+      "stops": 2,
+      "expectedDuration": 5,
+      "fee": 1.00
+    },
+    {
+      "origin": "PYL06",
+      "destination": "PYL07",
+      "stops": 1,
+      "expectedDuration": 3,
+      "fee": 0.90
+    },
+    {
+      "origin": "PYL07",
+      "destination": "PYL09",
+      "stops": 2,
+      "expectedDuration": 5,
+      "fee": 1.00
+    },
+    {
+      "origin": "PYL09",
+      "destination": "PYL10",
+      "stops": 1,
+      "expectedDuration": 3,
+      "fee": 0.90
+    },
+    {
+      "origin": "PYL10",
+      "destination": "PYL11",
+      "stops": 1,
+      "expectedDuration": 3,
+      "fee": 0.90
+    },
+    {
+      "origin": "PYL11",
+      "destination": "PYL12",
+      "stops": 1,
+      "expectedDuration": 3,
+      "fee": 0.90
+    },
+    {
+      "origin": "PYL12",
+      "destination": "PYL13",
+      "stops": 1,
+      "expectedDuration": 3,
+      "fee": 0.90
+    },
+    {
+      "origin": "PYL13",
+      "destination": "PYL14",
+      "stops": 1,
+      "expectedDuration": 3,
+      "fee": 0.90
+    },
+    {
+      "origin": "PYL14",
+      "destination": "PYL18",
+      "stops": 4,
+      "expectedDuration": 10,
+      "fee": 1.20
+    },
+    {
+      "origin": "PYL18",
+      "destination": "PYL19",
+      "stops": 1,
+      "expectedDuration": 3,
+      "fee": 0.90
+    },
+    {
+      "origin": "PYL19",
+      "destination": "PYL20",
+      "stops": 1,
+      "expectedDuration": 3,
+      "fee": 0.90
+    },
+    {
+      "origin": "PYL20",
+      "destination": "PYL21",
+      "stops": 1,
+      "expectedDuration": 3,
+      "fee": 0.90
+    },
+    {
+      "origin": "PYL21",
+      "destination": "PYL22",
+      "stops": 1,
+      "expectedDuration": 3,
+      "fee": 0.90
+    },
+    {
+      "origin": "PYL22",
+      "destination": "PYL29",
+      "stops": 7,
+      "expectedDuration": 18,
+      "fee": 1.50
+    },
+    {
+      "origin": "PYL29",
+      "destination": "PYL32",
+      "stops": 3,
+      "expectedDuration": 8,
+      "fee": 1.10
+    },
+    {
+      "origin": "PYL32",
+      "destination": "PYL34",
+      "stops": 2,
+      "expectedDuration": 5,
+      "fee": 1.00
+    },
+    {
+      "origin": "PYL34",
+      "destination": "PYL36",
+      "stops": 2,
+      "expectedDuration": 5,
+      "fee": 1.00
+    },
+    {
+      "origin": "PYL36",
+      "destination": "PYL37",
+      "stops": 1,
+      "expectedDuration": 3,
+      "fee": 0.90
+    },
+    {
+      "origin": "PYL37",
+      "destination": "PYL38",
+      "stops": 1,
+      "expectedDuration": 3,
+      "fee": 0.90
+    },
+    {
+      "origin": "PYL38",
+      "destination": "PYL39",
+      "stops": 1,
+      "expectedDuration": 3,
+      "fee": 0.90
+    },
+
+    {
+      "origin": "SP12",
+      "destination": "SP13",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "SP13",
+      "destination": "SP14",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "SP14",
+      "destination": "SP15",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "SP15",
+      "destination": "SP16",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "SP16",
+      "destination": "SP17",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "SP17",
+      "destination": "SP18",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "SP18",
+      "destination": "SP19",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "SP19",
+      "destination": "SP20",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "SP20",
+      "destination": "SP21",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "SP21",
+      "destination": "SP22",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "SP22",
+      "destination": "SP24",
+      "stops": 2,
+      "expectedDuration": 4,
+      "fee": 0.90
+    },
+    {
+      "origin": "SP24",
+      "destination": "SP25",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "SP25",
+      "destination": "SP26",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "SP26",
+      "destination": "SP27",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "SP27",
+      "destination": "SP28",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "SP28",
+      "destination": "SP29",
+      "stops": 1,
+      "expectedDuration": 2,
+      "fee": 0.80
+    },
+    {
+      "origin": "SP29",
+      "destination": "SP31",
+      "stops": 2,
+      "expectedDuration": 4,
+      "fee": 0.90
+    }
+  ]
+}

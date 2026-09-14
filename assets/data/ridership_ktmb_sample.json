@@ -1,0 +1,502 @@
+[
+  {
+    "date": "2026-08-22",
+    "service": "komuter",
+    "ridership": 11599
+  },
+  {
+    "date": "2026-08-21",
+    "service": "komuter",
+    "ridership": 22628
+  },
+  {
+    "date": "2026-08-20",
+    "service": "komuter",
+    "ridership": 22935
+  },
+  {
+    "date": "2026-08-19",
+    "service": "komuter",
+    "ridership": 23110
+  },
+  {
+    "date": "2026-08-18",
+    "service": "komuter",
+    "ridership": 23425
+  },
+  {
+    "date": "2026-08-17",
+    "service": "komuter",
+    "ridership": 22880
+  },
+  {
+    "date": "2026-08-16",
+    "service": "komuter",
+    "ridership": 10977
+  },
+  {
+    "date": "2026-08-15",
+    "service": "komuter",
+    "ridership": 12285
+  },
+  {
+    "date": "2026-08-14",
+    "service": "komuter",
+    "ridership": 22930
+  },
+  {
+    "date": "2026-08-13",
+    "service": "komuter",
+    "ridership": 22925
+  },
+  {
+    "date": "2026-08-12",
+    "service": "komuter",
+    "ridership": 24011
+  },
+  {
+    "date": "2026-08-11",
+    "service": "komuter",
+    "ridership": 24367
+  },
+  {
+    "date": "2026-08-10",
+    "service": "komuter",
+    "ridership": 24044
+  },
+  {
+    "date": "2026-08-09",
+    "service": "komuter",
+    "ridership": 13288
+  },
+  {
+    "date": "2026-08-08",
+    "service": "komuter",
+    "ridership": 13119
+  },
+  {
+    "date": "2026-08-07",
+    "service": "komuter",
+    "ridership": 23568
+  },
+  {
+    "date": "2026-08-06",
+    "service": "komuter",
+    "ridership": 23292
+  },
+  {
+    "date": "2026-08-05",
+    "service": "komuter",
+    "ridership": 23848
+  },
+  {
+    "date": "2026-08-04",
+    "service": "komuter",
+    "ridership": 23949
+  },
+  {
+    "date": "2026-08-03",
+    "service": "komuter",
+    "ridership": 23324
+  },
+  {
+    "date": "2026-08-02",
+    "service": "komuter",
+    "ridership": 13600
+  },
+  {
+    "date": "2026-08-01",
+    "service": "komuter",
+    "ridership": 15159
+  },
+  {
+    "date": "2026-07-31",
+    "service": "komuter",
+    "ridership": 25518
+  },
+  {
+    "date": "2026-07-30",
+    "service": "komuter",
+    "ridership": 23089
+  },
+  {
+    "date": "2026-07-29",
+    "service": "komuter",
+    "ridership": 22126
+  },
+  {
+    "date": "2026-07-28",
+    "service": "komuter",
+    "ridership": 23179
+  },
+  {
+    "date": "2026-07-27",
+    "service": "komuter",
+    "ridership": 23035
+  },
+  {
+    "date": "2026-07-26",
+    "service": "komuter",
+    "ridership": 10571
+  },
+  {
+    "date": "2026-07-25",
+    "service": "komuter",
+    "ridership": 12230
+  },
+  {
+    "date": "2026-07-24",
+    "service": "komuter",
+    "ridership": 22998
+  },
+  {
+    "date": "2026-07-23",
+    "service": "komuter",
+    "ridership": 21118
+  },
+  {
+    "date": "2026-07-22",
+    "service": "komuter",
+    "ridership": 24069
+  },
+  {
+    "date": "2026-07-21",
+    "service": "komuter",
+    "ridership": 23946
+  },
+  {
+    "date": "2026-07-20",
+    "service": "komuter",
+    "ridership": 23083
+  },
+  {
+    "date": "2026-07-19",
+    "service": "komuter",
+    "ridership": 10910
+  },
+  {
+    "date": "2026-07-18",
+    "service": "komuter",
+    "ridership": 12023
+  },
+  {
+    "date": "2026-07-17",
+    "service": "komuter",
+    "ridership": 23575
+  },
+  {
+    "date": "2026-07-16",
+    "service": "komuter",
+    "ridership": 22751
+  },
+  {
+    "date": "2026-07-15",
+    "service": "komuter",
+    "ridership": 24050
+  },
+  {
+    "date": "2026-07-14",
+    "service": "komuter",
+    "ridership": 24288
+  },
+  {
+    "date": "2026-07-13",
+    "service": "komuter",
+    "ridership": 23653
+  },
+  {
+    "date": "2026-07-12",
+    "service": "komuter",
+    "ridership": 11932
+  },
+  {
+    "date": "2026-07-11",
+    "service": "komuter",
+    "ridership": 12078
+  },
+  {
+    "date": "2026-07-10",
+    "service": "komuter",
+    "ridership": 24291
+  },
+  {
+    "date": "2026-07-09",
+    "service": "komuter",
+    "ridership": 23755
+  },
+  {
+    "date": "2026-07-08",
+    "service": "komuter",
+    "ridership": 24087
+  },
+  {
+    "date": "2026-07-07",
+    "service": "komuter",
+    "ridership": 23938
+  },
+  {
+    "date": "2026-07-06",
+    "service": "komuter",
+    "ridership": 23531
+  },
+  {
+    "date": "2026-07-05",
+    "service": "komuter",
+    "ridership": 11951
+  },
+  {
+    "date": "2026-07-04",
+    "service": "komuter",
+    "ridership": 12322
+  },
+  {
+    "date": "2026-07-03",
+    "service": "komuter",
+    "ridership": 24127
+  },
+  {
+    "date": "2026-07-02",
+    "service": "komuter",
+    "ridership": 23798
+  },
+  {
+    "date": "2026-07-01",
+    "service": "komuter",
+    "ridership": 24205
+  },
+  {
+    "date": "2026-06-30",
+    "service": "komuter",
+    "ridership": 23894
+  },
+  {
+    "date": "2026-06-29",
+    "service": "komuter",
+    "ridership": 23827
+  },
+  {
+    "date": "2026-06-28",
+    "service": "komuter",
+    "ridership": 11618
+  },
+  {
+    "date": "2026-06-27",
+    "service": "komuter",
+    "ridership": 13000
+  },
+  {
+    "date": "2026-06-26",
+    "service": "komuter",
+    "ridership": 25854
+  },
+  {
+    "date": "2026-06-25",
+    "service": "komuter",
+    "ridership": 26287
+  },
+  {
+    "date": "2026-06-24",
+    "service": "komuter",
+    "ridership": 26471
+  },
+  {
+    "date": "2026-06-23",
+    "service": "komuter",
+    "ridership": 27159
+  },
+  {
+    "date": "2026-06-22",
+    "service": "komuter",
+    "ridership": 25738
+  },
+  {
+    "date": "2026-06-21",
+    "service": "komuter",
+    "ridership": 11183
+  },
+  {
+    "date": "2026-06-20",
+    "service": "komuter",
+    "ridership": 12304
+  },
+  {
+    "date": "2026-06-19",
+    "service": "komuter",
+    "ridership": 26481
+  },
+  {
+    "date": "2026-06-18",
+    "service": "komuter",
+    "ridership": 25626
+  },
+  {
+    "date": "2026-06-17",
+    "service": "komuter",
+    "ridership": 10526
+  },
+  {
+    "date": "2026-06-16",
+    "service": "komuter",
+    "ridership": 27189
+  },
+  {
+    "date": "2026-06-15",
+    "service": "komuter",
+    "ridership": 26473
+  },
+  {
+    "date": "2026-06-14",
+    "service": "komuter",
+    "ridership": 11278
+  },
+  {
+    "date": "2026-06-13",
+    "service": "komuter",
+    "ridership": 12010
+  },
+  {
+    "date": "2026-06-12",
+    "service": "komuter",
+    "ridership": 26104
+  },
+  {
+    "date": "2026-06-11",
+    "service": "komuter",
+    "ridership": 26389
+  },
+  {
+    "date": "2026-06-10",
+    "service": "komuter",
+    "ridership": 26651
+  },
+  {
+    "date": "2026-06-09",
+    "service": "komuter",
+    "ridership": 26388
+  },
+  {
+    "date": "2026-06-08",
+    "service": "komuter",
+    "ridership": 26114
+  },
+  {
+    "date": "2026-06-07",
+    "service": "komuter",
+    "ridership": 12598
+  },
+  {
+    "date": "2026-06-06",
+    "service": "komuter",
+    "ridership": 14176
+  },
+  {
+    "date": "2026-06-05",
+    "service": "komuter",
+    "ridership": 26119
+  },
+  {
+    "date": "2026-06-04",
+    "service": "komuter",
+    "ridership": 27210
+  },
+  {
+    "date": "2026-06-03",
+    "service": "komuter",
+    "ridership": 27854
+  },
+  {
+    "date": "2026-06-02",
+    "service": "komuter",
+    "ridership": 15444
+  },
+  {
+    "date": "2026-06-01",
+    "service": "komuter",
+    "ridership": 16564
+  },
+  {
+    "date": "2026-05-31",
+    "service": "komuter",
+    "ridership": 15549
+  },
+  {
+    "date": "2026-05-30",
+    "service": "komuter",
+    "ridership": 14907
+  },
+  {
+    "date": "2026-05-29",
+    "service": "komuter",
+    "ridership": 22315
+  },
+  {
+    "date": "2026-05-28",
+    "service": "komuter",
+    "ridership": 21534
+  },
+  {
+    "date": "2026-05-27",
+    "service": "komuter",
+    "ridership": 13474
+  },
+  {
+    "date": "2026-05-26",
+    "service": "komuter",
+    "ridership": 26259
+  },
+  {
+    "date": "2026-05-25",
+    "service": "komuter",
+    "ridership": 27006
+  },
+  {
+    "date": "2026-05-24",
+    "service": "komuter",
+    "ridership": 12521
+  },
+  {
+    "date": "2026-05-23",
+    "service": "komuter",
+    "ridership": 14538
+  },
+  {
+    "date": "2026-05-22",
+    "service": "komuter",
+    "ridership": 28510
+  },
+  {
+    "date": "2026-05-21",
+    "service": "komuter",
+    "ridership": 26827
+  },
+  {
+    "date": "2026-05-20",
+    "service": "komuter",
+    "ridership": 26923
+  },
+  {
+    "date": "2026-05-19",
+    "service": "komuter",
+    "ridership": 26755
+  },
+  {
+    "date": "2026-05-18",
+    "service": "komuter",
+    "ridership": 26537
+  },
+  {
+    "date": "2026-05-17",
+    "service": "komuter",
+    "ridership": 11688
+  },
+  {
+    "date": "2026-05-16",
+    "service": "komuter",
+    "ridership": 13612
+  },
+  {
+    "date": "2026-05-15",
+    "service": "komuter",
+    "ridership": 26905
+  }
+]

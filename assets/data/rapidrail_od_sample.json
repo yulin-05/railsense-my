@@ -1,0 +1,1202 @@
+[
+  {
+    "origin":"KJ10: KLCC",
+    "destination":"KJ15: KL Sentral",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":1638
+  },
+  {
+    "origin":"KJ01: Gombak",
+    "destination":"KJ09: Ampang Park",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":656
+  },
+  {
+    "origin":"KG22: Maluri",
+    "destination":"KG26: Taman Connaught",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":456
+  },
+  {
+    "origin":"AG01: Sentul Timur",
+    "destination":"AG04: PWTC",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":312
+  },
+  {
+    "origin":"KG12: Phileo Damansara",
+    "destination":"KG15: Muzium Negara",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":294
+  },
+  {
+    "origin":"KJ18: Kerinchi",
+    "destination":"KJ16: Bank Rakyat Bangsar",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":293
+  },
+  {
+    "origin":"KJ15: KL Sentral",
+    "destination":"KJ11: Kampung Baru",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":275
+  },
+  {
+    "origin":"MR05: Imbi",
+    "destination":"MR03: Maharajalela",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":241
+  },
+  {
+    "origin":"KG06: Kota Damansara",
+    "destination":"KG13: Pusat Bandar Damansara",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":191
+  },
+  {
+    "origin":"KJ02: Taman Melati",
+    "destination":"KJ14: Pasar Seni",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":188
+  },
+  {
+    "origin":"KG15: Muzium Negara",
+    "destination":"KG30: Batu 11 Cheras",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":187
+  },
+  {
+    "origin":"KJ19: Universiti",
+    "destination":"KJ19: Universiti",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":149
+  },
+  {
+    "origin":"KJ28: Subang Jaya",
+    "destination":"SP31: Putra Heights",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":145
+  },
+  {
+    "origin":"MR07: Raja Chulan",
+    "destination":"MR07: Raja Chulan",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":132
+  },
+  {
+    "origin":"KJ18: Kerinchi",
+    "destination":"KJ21: Asia Jaya",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":130
+  },
+  {
+    "origin":"SP17: Bukit Jalil",
+    "destination":"AG07: Masjid Jamek",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":126
+  },
+  {
+    "origin":"KG24: Taman Midah",
+    "destination":"KG09: Bandar Utama",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":126
+  },
+  {
+    "origin":"KJ14: Pasar Seni",
+    "destination":"KJ01: Gombak",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":122
+  },
+  {
+    "origin":"MR04: Hang Tuah",
+    "destination":"MR07: Raja Chulan",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":117
+  },
+  {
+    "origin":"AG08: Plaza Rakyat",
+    "destination":"KG17: Merdeka",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":114
+  },
+  {
+    "origin":"KJ06: Jelatek",
+    "destination":"KJ04: Sri Rampai",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":113
+  },
+  {
+    "origin":"KJ05: Setiawangsa",
+    "destination":"KJ02: Taman Melati",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":105
+  },
+  {
+    "origin":"KJ17: Abdullah Hukum",
+    "destination":"KJ11: Kampung Baru",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":100
+  },
+  {
+    "origin":"KJ18: Kerinchi",
+    "destination":"SP29: Puchong Prima",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":99
+  },
+  {
+    "origin":"KG20: Tun Razak Exchange",
+    "destination":"AG15: Pandan Indah",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":98
+  },
+  {
+    "origin":"KJ11: Kampung Baru",
+    "destination":"KJ17: Abdullah Hukum",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":97
+  },
+  {
+    "origin":"KG18: Bukit Bintang",
+    "destination":"KJ18: Kerinchi",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":95
+  },
+  {
+    "origin":"KJ22: Taman Paramount",
+    "destination":"KJ20: Taman Jaya",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":93
+  },
+  {
+    "origin":"SP12: Cheras",
+    "destination":"SP13: Salak Selatan",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":83
+  },
+  {
+    "origin":"SP29: Puchong Prima",
+    "destination":"KG20: Tun Razak Exchange",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":83
+  },
+  {
+    "origin":"KG14: Semantan",
+    "destination":"AG18: Ampang",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":80
+  },
+  {
+    "origin":"SP22: Kinrara",
+    "destination":"SP29: Puchong Prima",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":80
+  },
+  {
+    "origin":"PYL19: Raja Uda",
+    "destination":"KG21: Cochrane",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":75
+  },
+  {
+    "origin":"KG23: Taman Pertama",
+    "destination":"KG16: Pasar Seni",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":71
+  },
+  {
+    "origin":"KG24: Taman Midah",
+    "destination":"KG17: Merdeka",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":70
+  },
+  {
+    "origin":"KG29: Bandar Tun Hussien Onn",
+    "destination":"KG16: Pasar Seni",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":69
+  },
+  {
+    "origin":"AG01: Sentul Timur",
+    "destination":"MR06: Bukit Bintang",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":69
+  },
+  {
+    "origin":"AG18: Ampang",
+    "destination":"MR01: KL Sentral",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":67
+  },
+  {
+    "origin":"SP19: Awan Besar",
+    "destination":"SP20: Muhibbah",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":65
+  },
+  {
+    "origin":"AG04: PWTC",
+    "destination":"AG16: Cempaka",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":64
+  },
+  {
+    "origin":"KJ03: Wangsa Maju",
+    "destination":"KG13: Pusat Bandar Damansara",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":60
+  },
+  {
+    "origin":"KG26: Taman Connaught",
+    "destination":"KG29: Bandar Tun Hussien Onn",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":59
+  },
+  {
+    "origin":"KG17: Merdeka",
+    "destination":"AG18: Ampang",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":58
+  },
+  {
+    "origin":"AG07: Masjid Jamek",
+    "destination":"KJ06: Jelatek",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":56
+  },
+  {
+    "origin":"AG12: Miharja",
+    "destination":"AG08: Plaza Rakyat",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":52
+  },
+  {
+    "origin":"KJ10: KLCC",
+    "destination":"KG24: Taman Midah",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":49
+  },
+  {
+    "origin":"AG13: Maluri",
+    "destination":"AG05: Sultan Ismail",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":49
+  },
+  {
+    "origin":"SP31: Putra Heights",
+    "destination":"KJ14: Pasar Seni",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":46
+  },
+  {
+    "origin":"KJ16: Bank Rakyat Bangsar",
+    "destination":"KG09: Bandar Utama",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":43
+  },
+  {
+    "origin":"AG03: Titiwangsa",
+    "destination":"KJ16: Bank Rakyat Bangsar",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":41
+  },
+  {
+    "origin":"AG02: Sentul",
+    "destination":"AG10: Pudu",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":40
+  },
+  {
+    "origin":"AG16: Cempaka",
+    "destination":"AG05: Sultan Ismail",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":40
+  },
+  {
+    "origin":"SP19: Awan Besar",
+    "destination":"AG11: Chan Sow Lin",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":40
+  },
+  {
+    "origin":"SP13: Salak Selatan",
+    "destination":"KG10: TTDI",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":39
+  },
+  {
+    "origin":"AG10: Pudu",
+    "destination":"KJ18: Kerinchi",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":38
+  },
+  {
+    "origin":"AG09: Hang Tuah",
+    "destination":"SP14: Bandar Tun Razak",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":38
+  },
+  {
+    "origin":"SP20: Muhibbah",
+    "destination":"SP26: Taman Perindustrian Puchong",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":37
+  },
+  {
+    "origin":"MR01: KL Sentral",
+    "destination":"AG14: Pandan Jaya",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":36
+  },
+  {
+    "origin":"PYL29: Sungai Besi",
+    "destination":"KG09: Bandar Utama",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":33
+  },
+  {
+    "origin":"PYL10: Kepong Baru",
+    "destination":"AG06: Bandaraya",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":32
+  },
+  {
+    "origin":"KJ18: Kerinchi",
+    "destination":"KG06: Kota Damansara",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":32
+  },
+  {
+    "origin":"MR04: Hang Tuah",
+    "destination":"KJ27: Cgc Glenmarie",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":30
+  },
+  {
+    "origin":"KJ16: Bank Rakyat Bangsar",
+    "destination":"KG24: Taman Midah",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":30
+  },
+  {
+    "origin":"KJ01: Gombak",
+    "destination":"KJ25: Lembah Subang",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":29
+  },
+  {
+    "origin":"KJ32: Taipan",
+    "destination":"KJ22: Taman Paramount",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":29
+  },
+  {
+    "origin":"KG17: Merdeka",
+    "destination":"KG12: Phileo Damansara",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":29
+  },
+  {
+    "origin":"MR11: Titiwangsa",
+    "destination":"AG04: PWTC",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":28
+  },
+  {
+    "origin":"KJ05: Setiawangsa",
+    "destination":"KG10: TTDI",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":27
+  },
+  {
+    "origin":"PYL37: Putra Permai",
+    "destination":"AG07: Masjid Jamek",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":27
+  },
+  {
+    "origin":"AG16: Cempaka",
+    "destination":"SP13: Salak Selatan",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":25
+  },
+  {
+    "origin":"AG03: Titiwangsa",
+    "destination":"KJ10: KLCC",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":25
+  },
+  {
+    "origin":"SP31: Putra Heights",
+    "destination":"AG05: Sultan Ismail",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":24
+  },
+  {
+    "origin":"KJ29: SS 15",
+    "destination":"KG16: Pasar Seni",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":24
+  },
+  {
+    "origin":"KG29: Bandar Tun Hussien Onn",
+    "destination":"KG23: Taman Pertama",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":24
+  },
+  {
+    "origin":"KJ09: Ampang Park",
+    "destination":"AG09: Hang Tuah",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":24
+  },
+  {
+    "origin":"KJ18: Kerinchi",
+    "destination":"SP14: Bandar Tun Razak",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":23
+  },
+  {
+    "origin":"AG07: Masjid Jamek",
+    "destination":"SP28: Puchong Perdana",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":23
+  },
+  {
+    "origin":"KJ28: Subang Jaya",
+    "destination":"SP15: Bandar Tasik Selatan",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":22
+  },
+  {
+    "origin":"PYL19: Raja Uda",
+    "destination":"KG24: Taman Midah",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":22
+  },
+  {
+    "origin":"KG04: Kwasa Damansara",
+    "destination":"KG16: Pasar Seni",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":21
+  },
+  {
+    "origin":"KG12: Phileo Damansara",
+    "destination":"SP15: Bandar Tasik Selatan",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":21
+  },
+  {
+    "origin":"KG21: Cochrane",
+    "destination":"SP19: Awan Besar",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":21
+  },
+  {
+    "origin":"MR01: KL Sentral",
+    "destination":"SP18: Sri Petaling",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":21
+  },
+  {
+    "origin":"PYL20: Ampang Park",
+    "destination":"SP26: Taman Perindustrian Puchong",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":20
+  },
+  {
+    "origin":"PYL07: Sri Damansara Sentral",
+    "destination":"KG08: Mutiara Damansara",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":19
+  },
+  {
+    "origin":"PYL11: Jinjang",
+    "destination":"KG04: Kwasa Damansara",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":18
+  },
+  {
+    "origin":"PYL04: Sungai Buloh",
+    "destination":"MR04: Hang Tuah",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":18
+  },
+  {
+    "origin":"SP24: IOI Puchong Jaya",
+    "destination":"AG18: Ampang",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":17
+  },
+  {
+    "origin":"SP17: Bukit Jalil",
+    "destination":"KJ34: USJ 21",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":17
+  },
+  {
+    "origin":"AG12: Miharja",
+    "destination":"KJ10: KLCC",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":17
+  },
+  {
+    "origin":"PYL09: Metro Prima",
+    "destination":"KG31: Bukit Dukung",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":17
+  },
+  {
+    "origin":"KJ29: SS 15",
+    "destination":"SP19: Awan Besar",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":16
+  },
+  {
+    "origin":"KG07: Surian",
+    "destination":"KJ20: Taman Jaya",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":16
+  },
+  {
+    "origin":"KJ25: Lembah Subang",
+    "destination":"KG21: Cochrane",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":16
+  },
+  {
+    "origin":"KG26: Taman Connaught",
+    "destination":"AG13: Maluri",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":16
+  },
+  {
+    "origin":"PYL12: Sri Delima",
+    "destination":"MR06: Bukit Bintang",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":16
+  },
+  {
+    "origin":"SP25: Pusat Bandar Puchong",
+    "destination":"MR04: Hang Tuah",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":16
+  },
+  {
+    "origin":"KG30: Batu 11 Cheras",
+    "destination":"KJ03: Wangsa Maju",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":15
+  },
+  {
+    "origin":"PYL36: Taman Equine",
+    "destination":"AG03: Titiwangsa",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":15
+  },
+  {
+    "origin":"AG04: PWTC",
+    "destination":"KG34: Stadium Kajang",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":15
+  },
+  {
+    "origin":"PYL34: UPM",
+    "destination":"AG04: PWTC",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":14
+  },
+  {
+    "origin":"PYL18: Hospital Kuala Lumpur",
+    "destination":"KG14: Semantan",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":14
+  },
+  {
+    "origin":"AG16: Cempaka",
+    "destination":"KJ12: Dang Wangi",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":13
+  },
+  {
+    "origin":"PYL20: Ampang Park",
+    "destination":"MR09: Medan Tuanku",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":13
+  },
+  {
+    "origin":"MR10: Chow Kit",
+    "destination":"SP19: Awan Besar",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":12
+  },
+  {
+    "origin":"KG15: Muzium Negara",
+    "destination":"KJ03: Wangsa Maju",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":12
+  },
+  {
+    "origin":"AG04: PWTC",
+    "destination":"KG27: Taman Suntex",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":12
+  },
+  {
+    "origin":"KJ11: Kampung Baru",
+    "destination":"AG03: Titiwangsa",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":11
+  },
+  {
+    "origin":"PYL09: Metro Prima",
+    "destination":"KJ21: Asia Jaya",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":10
+  },
+  {
+    "origin":"KJ19: Universiti",
+    "destination":"KG31: Bukit Dukung",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":10
+  },
+  {
+    "origin":"SP20: Muhibbah",
+    "destination":"KJ19: Universiti",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":10
+  },
+  {
+    "origin":"KJ16: Bank Rakyat Bangsar",
+    "destination":"SP24: IOI Puchong Jaya",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":10
+  },
+  {
+    "origin":"KG09: Bandar Utama",
+    "destination":"KJ21: Asia Jaya",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":9
+  },
+  {
+    "origin":"AG07: Masjid Jamek",
+    "destination":"KG24: Taman Midah",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":9
+  },
+  {
+    "origin":"SP25: Pusat Bandar Puchong",
+    "destination":"KJ23: Taman Bahagia",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":9
+  },
+  {
+    "origin":"PYL06: Sri Damansara Barat",
+    "destination":"AG18: Ampang",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":9
+  },
+  {
+    "origin":"SP29: Puchong Prima",
+    "destination":"KJ30: SS 18",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":9
+  },
+  {
+    "origin":"KG26: Taman Connaught",
+    "destination":"AG15: Pandan Indah",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":9
+  },
+  {
+    "origin":"KG23: Taman Pertama",
+    "destination":"KJ26: Ara Damansara",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":9
+  },
+  {
+    "origin":"AG10: Pudu",
+    "destination":"KJ35: Alam Megah",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":9
+  },
+  {
+    "origin":"KJ09: Ampang Park",
+    "destination":"AG18: Ampang",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":8
+  },
+  {
+    "origin":"PYL14: Kentomen",
+    "destination":"AG16: Cempaka",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":8
+  },
+  {
+    "origin":"AG09: Hang Tuah",
+    "destination":"KJ19: Universiti",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":8
+  },
+  {
+    "origin":"PYL37: Putra Permai",
+    "destination":"KG35: Kajang",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":8
+  },
+  {
+    "origin":"KJ33: Wawasan",
+    "destination":"SP22: Kinrara",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":8
+  },
+  {
+    "origin":"AG03: Titiwangsa",
+    "destination":"PYL03: Kampung Selamat",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":8
+  },
+  {
+    "origin":"MR07: Raja Chulan",
+    "destination":"PYL03: Kampung Selamat",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":7
+  },
+  {
+    "origin":"KJ08: Damai",
+    "destination":"AG09: Hang Tuah",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":7
+  },
+  {
+    "origin":"AG01: Sentul Timur",
+    "destination":"SP18: Sri Petaling",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":7
+  },
+  {
+    "origin":"PYL06: Sri Damansara Barat",
+    "destination":"KG33: Sungai Jernih",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":6
+  },
+  {
+    "origin":"KG27: Taman Suntex",
+    "destination":"AG16: Cempaka",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":6
+  },
+  {
+    "origin":"SP15: Bandar Tasik Selatan",
+    "destination":"KJ07: Dato' Keramat",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":6
+  },
+  {
+    "origin":"KJ20: Taman Jaya",
+    "destination":"SP26: Taman Perindustrian Puchong",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":6
+  },
+  {
+    "origin":"KJ18: Kerinchi",
+    "destination":"SP26: Taman Perindustrian Puchong",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":6
+  },
+  {
+    "origin":"KG33: Sungai Jernih",
+    "destination":"AG12: Miharja",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":6
+  },
+  {
+    "origin":"PYL07: Sri Damansara Sentral",
+    "destination":"MR10: Chow Kit",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":6
+  },
+  {
+    "origin":"MR08: Bukit Nanas",
+    "destination":"AG08: Plaza Rakyat",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":5
+  },
+  {
+    "origin":"KJ08: Damai",
+    "destination":"KG09: Bandar Utama",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":5
+  },
+  {
+    "origin":"KG07: Surian",
+    "destination":"SP27: Bandar Puteri",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":5
+  },
+  {
+    "origin":"SP21: Alam Sutera",
+    "destination":"KJ14: Pasar Seni",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":5
+  },
+  {
+    "origin":"SP18: Sri Petaling",
+    "destination":"KG31: Bukit Dukung",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":5
+  },
+  {
+    "origin":"SP25: Pusat Bandar Puchong",
+    "destination":"AG17: Cahaya",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":5
+  },
+  {
+    "origin":"KJ06: Jelatek",
+    "destination":"KG27: Taman Suntex",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":5
+  },
+  {
+    "origin":"KG12: Phileo Damansara",
+    "destination":"SP20: Muhibbah",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":5
+  },
+  {
+    "origin":"KJ07: Dato' Keramat",
+    "destination":"KG17: Merdeka",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":5
+  },
+  {
+    "origin":"MR10: Chow Kit",
+    "destination":"SP22: Kinrara",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":4
+  },
+  {
+    "origin":"PYL07: Sri Damansara Sentral",
+    "destination":"KG34: Stadium Kajang",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":4
+  },
+  {
+    "origin":"PYL37: Putra Permai",
+    "destination":"KG28: Sri Raya",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":4
+  },
+  {
+    "origin":"PYL37: Putra Permai",
+    "destination":"SP27: Bandar Puteri",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":4
+  },
+  {
+    "origin":"KJ09: Ampang Park",
+    "destination":"AG02: Sentul",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":3
+  },
+  {
+    "origin":"PYL38: 16 Sierra",
+    "destination":"MR08: Bukit Nanas",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":3
+  },
+  {
+    "origin":"MR10: Chow Kit",
+    "destination":"KJ19: Universiti",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":3
+  },
+  {
+    "origin":"AG02: Sentul",
+    "destination":"KG23: Taman Pertama",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":3
+  },
+  {
+    "origin":"MR10: Chow Kit",
+    "destination":"KG35: Kajang",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":3
+  },
+  {
+    "origin":"PYL38: 16 Sierra",
+    "destination":"AG09: Hang Tuah",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":3
+  },
+  {
+    "origin":"KJ28: Subang Jaya",
+    "destination":"SP16: Sungai Besi",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":3
+  },
+  {
+    "origin":"AG10: Pudu",
+    "destination":"MR11: Titiwangsa",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":3
+  },
+  {
+    "origin":"PYL06: Sri Damansara Barat",
+    "destination":"KJ19: Universiti",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":3
+  },
+  {
+    "origin":"KJ13: Masjid Jamek",
+    "destination":"MR09: Medan Tuanku",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":2
+  },
+  {
+    "origin":"KJ08: Damai",
+    "destination":"KG07: Surian",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":2
+  },
+  {
+    "origin":"KG04: Kwasa Damansara",
+    "destination":"AG18: Ampang",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":2
+  },
+  {
+    "origin":"PYL21: Persiaran KLCC",
+    "destination":"AG11: Chan Sow Lin",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":2
+  },
+  {
+    "origin":"KG16: Pasar Seni",
+    "destination":"MR05: Imbi",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":2
+  },
+  {
+    "origin":"AG17: Cahaya",
+    "destination":"SP28: Puchong Perdana",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":2
+  },
+  {
+    "origin":"PYL13: Kampung Batu",
+    "destination":"SP27: Bandar Puteri",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":2
+  },
+  {
+    "origin":"MR03: Maharajalela",
+    "destination":"SP24: IOI Puchong Jaya",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":2
+  },
+  {
+    "origin":"PYL39: Cyberjaya Utara",
+    "destination":"KJ34: USJ 21",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":2
+  },
+  {
+    "origin":"KJ04: Sri Rampai",
+    "destination":"SP19: Awan Besar",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":1
+  },
+  {
+    "origin":"AG03: Titiwangsa",
+    "destination":"KJ30: SS 18",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":1
+  },
+  {
+    "origin":"KJ36: Subang Alam",
+    "destination":"SP16: Sungai Besi",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":1
+  },
+  {
+    "origin":"SP12: Cheras",
+    "destination":"KJ34: USJ 21",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":1
+  },
+  {
+    "origin":"PYL04: Sungai Buloh",
+    "destination":"KJ27: Cgc Glenmarie",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":1
+  },
+  {
+    "origin":"KG24: Taman Midah",
+    "destination":"KJ36: Subang Alam",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":1
+  },
+  {
+    "origin":"AG11: Chan Sow Lin",
+    "destination":"KJ24: Kelana Jaya",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":1
+  },
+  {
+    "origin":"KG27: Taman Suntex",
+    "destination":"KJ04: Sri Rampai",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":1
+  },
+  {
+    "origin":"MR09: Medan Tuanku",
+    "destination":"KJ11: Kampung Baru",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":1
+  },
+  {
+    "origin":"KJ11: Kampung Baru",
+    "destination":"SP28: Puchong Perdana",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":1
+  },
+  {
+    "origin":"SP24: IOI Puchong Jaya",
+    "destination":"KG04: Kwasa Damansara",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":1
+  },
+  {
+    "origin":"PYL32: Serdang Raya Selatan",
+    "destination":"AG11: Chan Sow Lin",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":1
+  },
+  {
+    "origin":"MR06: Bukit Bintang",
+    "destination":"KJ02: Taman Melati",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":1
+  },
+  {
+    "origin":"KG15: Muzium Negara",
+    "destination":"MR01: KL Sentral",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"KJ16: Bank Rakyat Bangsar",
+    "destination":"MR11: Titiwangsa",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"KG21: Cochrane",
+    "destination":"MR03: Maharajalela",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"KG24: Taman Midah",
+    "destination":"KJ33: Wawasan",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"MR02: Tun Sambanthan",
+    "destination":"KJ04: Sri Rampai",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"KG17: Merdeka",
+    "destination":"MR07: Raja Chulan",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"MR05: Imbi",
+    "destination":"KG31: Bukit Dukung",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"PYL34: UPM",
+    "destination":"KJ31: USJ 7",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"KJ11: Kampung Baru",
+    "destination":"PYL03: Kampung Selamat",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"PYL22: Conlay",
+    "destination":"KJ10: KLCC",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"KJ34: USJ 21",
+    "destination":"MR08: Bukit Nanas",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"PYL13: Kampung Batu",
+    "destination":"KJ32: Taipan",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"KG20: Tun Razak Exchange",
+    "destination":"MR02: Tun Sambanthan",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"KG09: Bandar Utama",
+    "destination":"KJ28: Subang Jaya",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"KJ29: SS 15",
+    "destination":"MR03: Maharajalela",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"KG09: Bandar Utama",
+    "destination":"MR09: Medan Tuanku",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"MR09: Medan Tuanku",
+    "destination":"KJ23: Taman Bahagia",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"PYL20: Ampang Park",
+    "destination":"KJ12: Dang Wangi",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"KG12: Phileo Damansara",
+    "destination":"MR09: Medan Tuanku",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  },
+  {
+    "origin":"KJ29: SS 15",
+    "destination":"KG04: Kwasa Damansara",
+    "date":"2026-07-23T00:00:00.000",
+    "ridership":0
+  }
+]

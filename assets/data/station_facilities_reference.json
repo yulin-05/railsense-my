@@ -1,0 +1,1856 @@
+{
+  "meta": {
+    "description": "Station facilities & interchange reference data for RailSenseMY.",
+    "source": "Manually compiled from public RapidKL / MRT Corp / Prasarana Malaysia sources (mrt.com.my, myrapid.com.my) and Wikipedia, cross-checked 24 Aug 2026. This is NOT part of the data.gov.my ridership_od_rapidrail_daily dataset -- that dataset has no facilities/interchange fields.",
+    "verifiedFieldsNote": "wheelchairAccessible=true reflects RapidKL/MRT Corp's stated network-wide accessibility policy (lifts, ramps, tactile tiles, disabled-friendly toilets), not an individually confirmed per-station audit. toilet/surau/parkAndRide/feederBus are null (\"not verified\") unless a specific source is cited via facilitiesNote -- do not display null as \"No\" in the UI, display it as \"Not available yet\", consistent with team convention.",
+    "interchangeVerifiedCount": 9,
+    "totalStations": 132
+  },
+  "stations": [
+    {
+      "code": "AG01",
+      "name": "Sentul Timur",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "AG02",
+      "name": "Sentul",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "AG03",
+      "name": "Titiwangsa",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": [
+        {
+          "code": "MR11",
+          "name": "Titiwangsa",
+          "line": "KL Monorail Line",
+          "transferType": "Paid-area interchange (common ticketing)"
+        }
+      ]
+    },
+    {
+      "code": "AG04",
+      "name": "PWTC",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "AG05",
+      "name": "Sultan Ismail",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "AG06",
+      "name": "Bandaraya",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "AG07",
+      "name": "Masjid Jamek",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": [
+        {
+          "code": "KJ13",
+          "name": "Masjid Jamek",
+          "line": "Kelana Jaya Line",
+          "transferType": "Paid-area interchange (common ticketing)"
+        }
+      ]
+    },
+    {
+      "code": "AG08",
+      "name": "Plaza Rakyat",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": [
+        {
+          "code": "KG17",
+          "name": "Merdeka",
+          "line": "Kajang Line",
+          "transferType": "Paid-area linkway"
+        }
+      ]
+    },
+    {
+      "code": "AG09",
+      "name": "Hang Tuah",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": [
+        {
+          "code": "MR04",
+          "name": "Hang Tuah",
+          "line": "KL Monorail Line",
+          "transferType": "Paid-area interchange (common ticketing)"
+        }
+      ]
+    },
+    {
+      "code": "AG10",
+      "name": "Pudu",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "AG11",
+      "name": "Chan Sow Lin",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "AG12",
+      "name": "Miharja",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "AG13",
+      "name": "Maluri",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": [
+        {
+          "code": "KG22",
+          "name": "Maluri",
+          "line": "Kajang Line",
+          "transferType": "Paid-to-paid linkway (~2 min covered walkway)"
+        }
+      ]
+    },
+    {
+      "code": "AG14",
+      "name": "Pandan Jaya",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "AG15",
+      "name": "Pandan Indah",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "AG16",
+      "name": "Cempaka",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "AG17",
+      "name": "Cahaya",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "AG18",
+      "name": "Ampang",
+      "line": "Ampang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG04",
+      "name": "Kwasa Damansara",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG06",
+      "name": "Kota Damansara",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG07",
+      "name": "Surian",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG08",
+      "name": "Mutiara Damansara",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG09",
+      "name": "Bandar Utama",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG10",
+      "name": "TTDI",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG12",
+      "name": "Phileo Damansara",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG13",
+      "name": "Pusat Bandar Damansara",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG14",
+      "name": "Semantan",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG15",
+      "name": "Muzium Negara",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG16",
+      "name": "Pasar Seni",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": false,
+        "feederBus": null
+      },
+      "interchange": [
+        {
+          "code": "KJ14",
+          "name": "Pasar Seni",
+          "line": "Kelana Jaya Line",
+          "transferType": "Paid-to-paid linkway (~65m walkway)"
+        }
+      ],
+      "facilitiesNote": "City-centre station; no dedicated park & ride, adjoins Jalan Sultan Mohamed bus hub (mrt.com.my)"
+    },
+    {
+      "code": "KG17",
+      "name": "Merdeka",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": [
+        {
+          "code": "AG08",
+          "name": "Plaza Rakyat",
+          "line": "Ampang Line",
+          "transferType": "Paid-area linkway"
+        }
+      ]
+    },
+    {
+      "code": "KG18",
+      "name": "Bukit Bintang",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG20",
+      "name": "Tun Razak Exchange",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG21",
+      "name": "Cochrane",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG22",
+      "name": "Maluri",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": [
+        {
+          "code": "AG13",
+          "name": "Maluri",
+          "line": "Ampang Line",
+          "transferType": "Paid-to-paid linkway (~2 min covered walkway)"
+        }
+      ],
+      "facilitiesNote": "250 car + 50 motorcycle bays (mrt.com.my)"
+    },
+    {
+      "code": "KG23",
+      "name": "Taman Pertama",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG24",
+      "name": "Taman Midah",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG26",
+      "name": "Taman Connaught",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG27",
+      "name": "Taman Suntex",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG28",
+      "name": "Sri Raya",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG29",
+      "name": "Bandar Tun Hussien Onn",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG30",
+      "name": "Batu 11 Cheras",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG31",
+      "name": "Bukit Dukung",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG33",
+      "name": "Sungai Jernih",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG34",
+      "name": "Stadium Kajang",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KG35",
+      "name": "Kajang",
+      "line": "Kajang Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ01",
+      "name": "Gombak",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ02",
+      "name": "Taman Melati",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ03",
+      "name": "Wangsa Maju",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ04",
+      "name": "Sri Rampai",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ05",
+      "name": "Setiawangsa",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ06",
+      "name": "Jelatek",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ07",
+      "name": "Dato' Keramat",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ08",
+      "name": "Damai",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ09",
+      "name": "Ampang Park",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": [
+        {
+          "code": "PYL20",
+          "name": "Ampang Park",
+          "line": "Putrajaya Line",
+          "transferType": "Out-of-station transfer (tap out, ~7 min walk)"
+        }
+      ]
+    },
+    {
+      "code": "KJ10",
+      "name": "KLCC",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ11",
+      "name": "Kampung Baru",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ12",
+      "name": "Dang Wangi",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ13",
+      "name": "Masjid Jamek",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": [
+        {
+          "code": "AG07",
+          "name": "Masjid Jamek",
+          "line": "Ampang Line",
+          "transferType": "Paid-area interchange (common ticketing)"
+        }
+      ]
+    },
+    {
+      "code": "KJ14",
+      "name": "Pasar Seni",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": [
+        {
+          "code": "KG16",
+          "name": "Pasar Seni",
+          "line": "Kajang Line",
+          "transferType": "Paid-to-paid linkway (~65m walkway)"
+        }
+      ]
+    },
+    {
+      "code": "KJ15",
+      "name": "KL Sentral",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": [
+        {
+          "code": "MR01",
+          "name": "KL Sentral",
+          "line": "KL Monorail Line",
+          "transferType": "Walk via KL Sentral concourse"
+        }
+      ]
+    },
+    {
+      "code": "KJ16",
+      "name": "Bank Rakyat Bangsar",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ17",
+      "name": "Abdullah Hukum",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ18",
+      "name": "Kerinchi",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ19",
+      "name": "Universiti",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ20",
+      "name": "Taman Jaya",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ21",
+      "name": "Asia Jaya",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ22",
+      "name": "Taman Paramount",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ23",
+      "name": "Taman Bahagia",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ24",
+      "name": "Kelana Jaya",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ25",
+      "name": "Lembah Subang",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ26",
+      "name": "Ara Damansara",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ27",
+      "name": "Cgc Glenmarie",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ28",
+      "name": "Subang Jaya",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ29",
+      "name": "SS 15",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ30",
+      "name": "SS 18",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ31",
+      "name": "USJ 7",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ32",
+      "name": "Taipan",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ33",
+      "name": "Wawasan",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ34",
+      "name": "USJ 21",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ35",
+      "name": "Alam Megah",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "KJ36",
+      "name": "Subang Alam",
+      "line": "Kelana Jaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "MR01",
+      "name": "KL Sentral",
+      "line": "KL Monorail Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": true,
+        "feederBus": null
+      },
+      "interchange": [
+        {
+          "code": "KJ15",
+          "name": "KL Sentral",
+          "line": "Kelana Jaya Line",
+          "transferType": "Walk via KL Sentral concourse"
+        }
+      ]
+    },
+    {
+      "code": "MR02",
+      "name": "Tun Sambanthan",
+      "line": "KL Monorail Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "MR03",
+      "name": "Maharajalela",
+      "line": "KL Monorail Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "MR04",
+      "name": "Hang Tuah",
+      "line": "KL Monorail Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": [
+        {
+          "code": "AG09",
+          "name": "Hang Tuah",
+          "line": "Ampang Line",
+          "transferType": "Paid-area interchange (common ticketing)"
+        }
+      ]
+    },
+    {
+      "code": "MR05",
+      "name": "Imbi",
+      "line": "KL Monorail Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "MR06",
+      "name": "Bukit Bintang",
+      "line": "KL Monorail Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "MR07",
+      "name": "Raja Chulan",
+      "line": "KL Monorail Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "MR08",
+      "name": "Bukit Nanas",
+      "line": "KL Monorail Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": true,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "MR09",
+      "name": "Medan Tuanku",
+      "line": "KL Monorail Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "MR10",
+      "name": "Chow Kit",
+      "line": "KL Monorail Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "MR11",
+      "name": "Titiwangsa",
+      "line": "KL Monorail Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": [
+        {
+          "code": "AG03",
+          "name": "Titiwangsa",
+          "line": "Ampang Line",
+          "transferType": "Paid-area interchange (common ticketing)"
+        }
+      ]
+    },
+    {
+      "code": "PYL03",
+      "name": "Kampung Selamat",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL04",
+      "name": "Sungai Buloh",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL06",
+      "name": "Sri Damansara Barat",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": true,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL07",
+      "name": "Sri Damansara Sentral",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL09",
+      "name": "Metro Prima",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL10",
+      "name": "Kepong Baru",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": true,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL11",
+      "name": "Jinjang",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL12",
+      "name": "Sri Delima",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": true,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL13",
+      "name": "Kampung Batu",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL14",
+      "name": "Kentomen",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": true,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL18",
+      "name": "Hospital Kuala Lumpur",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL19",
+      "name": "Raja Uda",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL20",
+      "name": "Ampang Park",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": [
+        {
+          "code": "KJ09",
+          "name": "Ampang Park",
+          "line": "Kelana Jaya Line",
+          "transferType": "Out-of-station transfer (tap out, ~7 min walk)"
+        }
+      ]
+    },
+    {
+      "code": "PYL21",
+      "name": "Persiaran KLCC",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": true,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL22",
+      "name": "Conlay",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": null,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL29",
+      "name": "Sungai Besi",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": [
+        {
+          "code": "SP16",
+          "name": "Sungai Besi",
+          "line": "Sri Petaling Line",
+          "transferType": "Paid-to-paid, elevated-to-elevated linkway"
+        }
+      ],
+      "facilitiesNote": "Covered car park + motorcycle bays (mrt.com.my)"
+    },
+    {
+      "code": "PYL32",
+      "name": "Serdang Raya Selatan",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": true,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL34",
+      "name": "UPM",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL36",
+      "name": "Taman Equine",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL37",
+      "name": "Putra Permai",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL38",
+      "name": "16 Sierra",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": null,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": true,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "PYL39",
+      "name": "Cyberjaya Utara",
+      "line": "Putrajaya Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP12",
+      "name": "Cheras",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP13",
+      "name": "Salak Selatan",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP14",
+      "name": "Bandar Tun Razak",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP15",
+      "name": "Bandar Tasik Selatan",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP16",
+      "name": "Sungai Besi",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": [
+        {
+          "code": "PYL29",
+          "name": "Sungai Besi",
+          "line": "Putrajaya Line",
+          "transferType": "Paid-to-paid, elevated-to-elevated linkway"
+        }
+      ]
+    },
+    {
+      "code": "SP17",
+      "name": "Bukit Jalil",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP18",
+      "name": "Sri Petaling",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP19",
+      "name": "Awan Besar",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": true,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP20",
+      "name": "Muhibbah",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP21",
+      "name": "Alam Sutera",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP22",
+      "name": "Kinrara",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": null,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP24",
+      "name": "IOI Puchong Jaya",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP25",
+      "name": "Pusat Bandar Puchong",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP26",
+      "name": "Taman Perindustrian Puchong",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP27",
+      "name": "Bandar Puteri",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP28",
+      "name": "Puchong Perdana",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP29",
+      "name": "Puchong Prima",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": null,
+        "feederBus": null
+      },
+      "interchange": []
+    },
+    {
+      "code": "SP31",
+      "name": "Putra Heights",
+      "line": "Sri Petaling Line",
+      "facilities": {
+        "wheelchairAccessible": true,
+        "toilet": true,
+        "surau": true,
+        "parkAndRide": true,
+        "feederBus": true
+      },
+      "interchange": []
+    }
+  ]
+}
